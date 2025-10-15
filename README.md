@@ -1,52 +1,28 @@
-# 🧠 DSA by Bibhu
+# 📅 Day 2 — DSA Practice (Oct 15, 2025)
 
-Welcome to my **Daily DSA Practice Repository** — part of my mission to become an AI Engineer.  
-Here I solve 2+ Data Structures and Algorithms problems daily, write clean and structured Python code, and build strong problem-solving skills.
+Today’s focus was on **basic array and string manipulation problems** in Python.  
+These are foundational problems that help build problem-solving speed and confidence for interviews.
 
----
+## 🧮 Problems Solved
+1. **Find Max in Array** — Iterate through an array and return the maximum element.  
+2. **Reverse String** — Reverse a string using Python logic without built-in reverse functions.
 
-## 📅 Daily Problem Progress
+## 🧠 Concepts Practiced
+- Array traversal
+- String manipulation
+- Edge case handling (empty arrays, single characters)
+- Writing clean functions with test cases
 
-| Day | Date | Problems Solved |
-|-----|------|------------------|
-| 1 | Oct 14, 2025 | GCD & LCM, Palindrome Number, Prime Number, Sum of Numbers |
-| 2 | Oct 15, 2025 | Find Max in Array, Reverse String |
+## 🧑‍💻 Approach
+- Wrote reusable functions with docstrings.
+- Handled input validation and corner cases.
+- Focused on clarity, not shortcuts.
+- Added time complexity notes in code.
 
-🧭 *Target: Minimum 2 DSA problems daily.*
-
----
-
-## 🛠️ Tech & Approach
-- **Language:** Python 🐍
-- **Focus:** Clarity, edge case handling, and optimized solutions.
-- **Structure:** Each solution uses functions, docstrings, and simple test cases.
-
----
-
-## 🧾 Repo Structure
-📂 dsa-by-bibhu
-┣ 📂 day01
-┣ 📂 day02
-┣ 📜 README.md
-┗ 📜 problems.md
-
-
-Each folder contains the problems solved on that day.
+## ⏳ Complexity
+- Find Max in Array → **O(n)**  
+- Reverse String → **O(n)**
 
 ---
 
-## 🚀 Goals
-- Strengthen DSA foundation
-- Build structured coding habits
-- Prepare for technical interviews and freelancing opportunities
-- Track progress on my AI Engineer journey
-
----
-
-## 🤝 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)
-- 🧑‍💻 Aspiring AI Engineer | Python | DSA | SQL | Automation & AI Tools
-
----
-
-✨ *“Consistency beats intensity. Small steps daily build big results.”*
+✨ *Daily progress matters. Day 2 down — onwards to Day 3!* 🚀
