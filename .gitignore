@@ -1,8 +1,11 @@
+# Python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
-.venv/
-venv/
 env/
-.ipynb_checkpoints/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
